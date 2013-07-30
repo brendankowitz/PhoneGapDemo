@@ -1,0 +1,12 @@
+.ui-theme-dark .ui-fg, .ui-theme-dark a, .ui-theme-dark.ui-fg {
+    color: #fff;
+}
+.ui-theme-dark .ui-bg, .ui-theme-dark.ui-bg {
+    background: #000;
+}
+.ui-page {
+    position: relative;
+    overflow: hidden;
+}
+
+.app {margin:auto; overflow-x:hidden; position:relative;}
